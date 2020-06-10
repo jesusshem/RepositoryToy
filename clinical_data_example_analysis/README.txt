@@ -1,0 +1,1 @@
+In this work I'll show you an example of an analysis using clinical data and the statistic methods behind the scenes to explore before decide what actions are goig to be the best for the business based on the context and knowledge I would have. 
